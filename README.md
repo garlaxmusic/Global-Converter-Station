@@ -1,4 +1,4 @@
-# WaveDrop Pro UI
+# Global Converter Station
 
 A premium, creator-focused media converter interface inspired by the clean editorial feel of modern underground music platforms.
 
